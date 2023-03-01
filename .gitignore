@@ -1,7 +1,9 @@
-/Library
-/Logs
-/MonoBleedingEdge
-/UserSettings
-/Assets
+/[Ll]ibrary
+/[Ll]ogs
+/[Mm]onoBleedingEdge
+/[Uu]serSettings
+/[Aa]ssets
+/[Tt]emp/
 UnityCrashHandler64.exe
 UnityPlayer.dll
+!/[Aa]ssets/**/*.meta
